@@ -3,9 +3,10 @@ import './style.css';
 function App() {
   return (
     <div className="container">
-      <h1>Welcome to My React Project - SRAVANI</h1>
+      <h1>Welcome to My React project - S205</h1>
       <p>This is a simple homepage deployed on GitHub Actions using Vite.</p>
       <p>welcome to CI/CD DevOps</p>
+      <p>Done with Git Pages & Git Actions</p>
     </div>
   );
 }
